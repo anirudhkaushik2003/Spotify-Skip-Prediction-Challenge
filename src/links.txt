@@ -1,0 +1,5 @@
+https://storage.googleapis.com/skchang_data/seqskip/data/tr_log_memmap.dat
+https://storage.googleapis.com/skchang_data/seqskip/data/tr_session_split_idx.npy 
+https://storage.googleapis.com/skchang_data/seqskip/data/track_feat.npy 
+https://storage.googleapis.com/skchang_data/seqskip/data/ts_log_memmap.dat 
+https://storage.googleapis.com/skchang_data/seqskip/data/ts_session_split_idx.npy
